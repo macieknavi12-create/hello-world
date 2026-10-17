@@ -1,2 +1,2 @@
 # hello-world
-Moje pierwsze repo
+Mam na imię Maciek. Studiuję na Politechnice Gdańskiej. W wolnym czasie gram na gitarze.
